@@ -38,8 +38,8 @@ Enable to maintain, inspect, and operate fixed cranes by working on their electr
     </tr>
     <tr>
       <td>📞</td>
-      <td>(+44) 7343-040-142</td>
-      <td>(+886) 0988-840-686</td>
+      <td>(+44) 7343-040-142
+          (+886) 0988-840-686</td>
     </tr>
     <tr>
       <td>📍</td>
