@@ -16,8 +16,8 @@ Designing a soccer robot that could automatically adjust its trajectory regardle
 Developed tailored approaches for students who struggled, helping them overcome specific conceptual gaps with step-by-step problem-solving guidance both in class and after class. 
 
 ## SKILLES
-### - Computer-aided design software
-**- MATLAB,Arduino,AutoCAD,Creo CAD,SolidWorks** 
+**- Computer-aided design software**
+MATLAB,Arduino,AutoCAD,Creo CAD,SolidWorks
 
 **- Manufacturing skills**
 CNC lathe, Engine lathe, 3D printer, Woodworking, Welding
