@@ -42,7 +42,7 @@ Enable to maintain, inspect, and operate fixed cranes by working on their electr
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Manchester, UK</td>
     </tr>
     <tr>
       <td>⬇️</td>
