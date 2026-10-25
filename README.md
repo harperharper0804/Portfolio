@@ -18,9 +18,13 @@ Developed tailored approaches for students who struggled, helping them overcome 
 # SKILLES
 ### - Computer-aided design software
 **- MATLAB**
+
 **- Arduino**
+
 **- AutoCAD**
+
 **- Creo CAD**
+
 **- SolidWorks** 
 
 **- Manufacturing skills**
