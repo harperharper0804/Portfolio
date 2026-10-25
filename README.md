@@ -50,7 +50,7 @@ Enable to maintain, inspect, and operate fixed cranes by working on their electr
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/ming-liang-wang-384711393/?isSelfProfile=true"My LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
