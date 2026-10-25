@@ -25,3 +25,38 @@ Enable to assist with basic maintenance and repair of aircrafts, engines, and co
 
 **- Technician for fixed crane operation:**
 Enable to maintain, inspect, and operate fixed cranes by working on their electrical, hydraulic, and mechanical systems.
+
+
+
+##CONTACT DETAILS
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+44) 7343-040-142</td>
+      <td>(+886) 0988-840-686</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>PH, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="[https://linkedin.com/in/etukanietie](https://www.linkedin.com/in/ming-liang-wang-384711393/?isSelfProfile=true)">The things I do daily on LinkedIn</a></td>
+    </tr>
+    <tr>
+      <td>📺</td>
+      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+    </tr>
+  </tbody>
+</table>
+
