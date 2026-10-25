@@ -5,6 +5,8 @@ Study Mechanical and Engineering for undergrad.
 I fixed humvee
 I weld drone.
 
+## RESEARCH INTEREST
+
 ## WHAT I DO IN UNDERGRAD
 **- Final Research Project:**
 Designing a soccer robot that could automatically adjust its trajectory regardless of the ball’s position
