@@ -1,4 +1,4 @@
-# ABOUT ME
+## ABOUT ME
 
 I am a MSc Robotics student of UoM.
 Study Mechanical and Engineering for undergrad.
@@ -6,7 +6,7 @@ I fixed humvee
 I weld drone.
 這邊還要再大改特改
 
-# RESEARCH INTEREST
+## RESEARCH INTEREST
 
 # WHAT I DO IN UNDERGRAD
 **- Final Research Project:**
@@ -15,17 +15,9 @@ Designing a soccer robot that could automatically adjust its trajectory regardle
 **- Teaching Assistant in Calculus**
 Developed tailored approaches for students who struggled, helping them overcome specific conceptual gaps with step-by-step problem-solving guidance both in class and after class. 
 
-# SKILLES
+## SKILLES
 ### - Computer-aided design software
-**- MATLAB**
-
-**- Arduino**
-
-**- AutoCAD**
-
-**- Creo CAD**
-
-**- SolidWorks** 
+**- MATLAB,Arduino,AutoCAD,Creo CAD,SolidWorks** 
 
 **- Manufacturing skills**
 CNC lathe, Engine lathe, 3D printer, Woodworking, Welding
