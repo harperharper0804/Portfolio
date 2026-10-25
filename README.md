@@ -28,7 +28,7 @@ Enable to maintain, inspect, and operate fixed cranes by working on their electr
 
 
 
-##CONTACT DETAILS
+## CONTACT DETAILS
 *Let’s connect and see how we can make a difference together!*
 <table>
   <tbody>
