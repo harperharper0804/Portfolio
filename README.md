@@ -56,7 +56,7 @@ Enable to maintain, inspect, and operate fixed cranes by working on their electr
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com/@LearnwithEtuk">!!還沒改記得改!!Watch my reports on YouTube</a></td>
     </tr>
   </tbody>
 </table>
