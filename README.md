@@ -6,22 +6,22 @@ I fixed humvee
 I weld drone.
 這邊還要再大改特改
 
-### RESEARCH INTEREST
+# RESEARCH INTEREST
 
-### WHAT I DO IN UNDERGRAD
+# WHAT I DO IN UNDERGRAD
 **- Final Research Project:**
 Designing a soccer robot that could automatically adjust its trajectory regardless of the ball’s position
 
 **- Teaching Assistant in Calculus**
 Developed tailored approaches for students who struggled, helping them overcome specific conceptual gaps with step-by-step problem-solving guidance both in class and after class. 
 
-### SKILLES
-# - Computer-aided design software
-MATLAB
-Arduino
-AutoCAD
-Creo CAD
-SolidWorks 
+# SKILLES
+### - Computer-aided design software
+**- MATLAB**
+**- Arduino**
+**- AutoCAD**
+**- Creo CAD**
+**- SolidWorks** 
 
 **- Manufacturing skills**
 CNC lathe, Engine lathe, 3D printer, Woodworking, Welding
