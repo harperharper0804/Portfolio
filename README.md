@@ -39,9 +39,6 @@ Enable to maintain, inspect, and operate fixed cranes by working on their electr
     <tr>
       <td>📞</td>
       <td>(+44) 7343-040-142</td>
-      <td>📞<img width="480" height="260" alt="TaiwanFlagGIF" src="https://github.com/user-attachments/assets/cc098f3f-91dc-4e65-992d-c00eba017df0" />
-</td>
-      </td>(+886) 0988-840-686</td>
     </tr>
     <tr>
       <td>📍</td>
