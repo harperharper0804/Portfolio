@@ -7,8 +7,9 @@ I weld drone.
 這邊還要再大改特改
 
 ## RESEARCH INTEREST
+還在想
 
-# WHAT I DO IN UNDERGRAD
+## WHAT I DO IN UNDERGRAD
 **- Final Research Project:**
 Designing a soccer robot that could automatically adjust its trajectory regardless of the ball’s position
 
