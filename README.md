@@ -23,7 +23,7 @@ MATLAB, Arduino, AutoCAD, Creo CAD, SolidWorks
 **- Manufacturing skills**
 CNC lathe, Engine lathe, 3D printer, Woodworking, Welding
 
-### CERTIFICATE
+## CERTIFICATE
 **-Level C technician for repairing airplanes:** 
 Enable to assist with basic maintenance and repair of aircrafts, engines, and components under supervision
 
@@ -32,7 +32,7 @@ Enable to maintain, inspect, and operate fixed cranes by working on their electr
 
 
 
-### CONTACT DETAILS
+## CONTACT DETAILS
 *Let’s connect and see how we can make a difference together!*
 <table>
   <tbody>
