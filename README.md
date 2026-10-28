@@ -1,23 +1,12 @@
 ## ABOUT ME
 
-**- Academic Foundation:**
-Combining a BSc in Mechanical Engineering with an MSc in Robotics at the University of Manchester to specialize in intelligent hardware and autonomous systems.
+I am a MSc Robotics student of University of Manchester and studied Mechanical and Aerospace Engineering in undergrad
 
 **- Full-Scale Vehicle Overhaul:**
 Successfully disassembled and reassembled an entire Humvee, gaining deep mastery over heavy mechanical systems, diagnostics, and powertrain components.
 
 **- Custom Drone Fabrication:**
 Utilized precision welding and manufacturing techniques to design and build durable, flight-ready drone airframes.
-
-
-
-I am a MSc Robotics student of University of Manchester.
-Studied Mechanical and Engineering for undergrad.
-I dissemble an entire Humvee and reassemble it back together again.
-I weld drone.
-I am hope to learn anything cool relate to robot.
-I am especially good at hand-made project.
-這邊還要再大改特改
 
 ## RESEARCH INTEREST
 Transmission
