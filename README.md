@@ -1,12 +1,14 @@
 ## ABOUT ME
 
-I am a MSc Robotics student of University of Manchester and studied Mechanical and Aerospace Engineering in undergrad
+I am an MSc Robotics student at the University of Manchester, and I studied Mechanical and Aerospace Engineering for my undergrad.
 
 **- Full-Scale Vehicle Overhaul:**
 Successfully disassembled and reassembled an entire Humvee, gaining deep mastery over heavy mechanical systems, diagnostics, and powertrain components.
 
 **- Custom Drone Fabrication:**
 Utilized precision welding and manufacturing techniques to design and build durable, flight-ready drone airframes.
+
+
 
 ## RESEARCH INTEREST
 Transmission
@@ -53,8 +55,7 @@ Enable to maintain, inspect, and operate fixed cranes by working on their electr
       <td>Manchester, UK</td>
     </tr>
     <tr>
-      <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+
     </tr>
     <tr>
       <td>🌐</td>
