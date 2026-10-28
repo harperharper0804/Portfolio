@@ -1,13 +1,17 @@
 ## ABOUT ME
 
-I am a MSc Robotics student of UoM.
-Study Mechanical and Engineering for undergrad.
-I fixed humvee
+I am a MSc Robotics student of University of Manchester.
+Studied Mechanical and Engineering for undergrad.
+I dissemble an entire Humvee and reassemble it back together again.
 I weld drone.
+I am hope to learn anything cool relate to robot.
+I am especially good at hand-made project.
 這邊還要再大改特改
 
 ## RESEARCH INTEREST
-還在想
+Transmission
+Engine
+
 
 ## WHAT I DO IN UNDERGRAD
 **- Final Research Project:**
@@ -58,7 +62,7 @@ Enable to maintain, inspect, and operate fixed cranes by working on their electr
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">!!還沒改記得改!!Watch my reports on YouTube</a></td>
+      <td><a href="https://www.youtube.com/watch?v=7eBBHVG19Nc">Watch my reports on YouTube</a></td>
     </tr>
   </tbody>
 </table>
