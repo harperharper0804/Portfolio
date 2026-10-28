@@ -2,12 +2,6 @@
 
 I am an MSc Robotics student at the University of Manchester, and I studied Mechanical and Aerospace Engineering for my undergrad.
 
-**- Full-Scale Vehicle Overhaul:**
-Successfully disassembled and reassembled an entire Humvee, gaining deep mastery over heavy mechanical systems, diagnostics, and powertrain components.
-
-**- Custom Drone Fabrication:**
-Utilized precision welding and manufacturing techniques to design and build durable, flight-ready drone airframes.
-
 
 
 ## RESEARCH INTEREST
@@ -23,6 +17,14 @@ Designing a soccer robot that could automatically adjust its trajectory regardle
 **- Teaching Assistant in Calculus**
 Developed tailored approaches for students who struggled, helping them overcome specific conceptual gaps with step-by-step problem-solving guidance both in class and after class. 
 
+
+
+## WHAT I DO IN MY JOB
+**- Full-Scale Vehicle Overhaul:**
+Successfully disassembled and reassembled an entire Humvee, gaining deep mastery over heavy mechanical systems, diagnostics, and powertrain components.
+
+**- Custom Drone Fabrication:**
+Utilized precision welding and manufacturing techniques to design and build durable, flight-ready drone airframes.
 
 
 
