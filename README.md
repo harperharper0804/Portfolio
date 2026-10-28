@@ -11,7 +11,7 @@ Utilized precision welding and manufacturing techniques to design and build dura
 
 
 ## RESEARCH INTEREST
-Transmission,Engine,fixing vehicles in technique perspective.
+Transmission and Engine
 
 
 
